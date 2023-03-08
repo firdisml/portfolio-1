@@ -12,7 +12,7 @@ export default function Home() {
                   alt=""
                 />
               </picture>
-              <h1 className="mt-5 font-semibold text-xl">Hello, I'm Winter</h1>
+              <h1 className="mt-5 font-semibold text-xl">Hello, I am Winter</h1>
               <p className="mt-5 w-2/4 text-sm">Hey there! A large portion of my time is devoted to the creation of something i find fascinating,</p>
             </div>
           </div>
